@@ -8,5 +8,5 @@ jobs:
       - uses: actions/setup-node@v1
       - run: |
         - cd build
-	- cmake ..
-	- make
+        - cmake ..
+        - make
