@@ -2,6 +2,6 @@
 
 int main() {
    printf("Hello, World!\n");
-   printfBAD("Let's add feature1.\n");
+   printf("Let's add feature1.\n");
    return 0;
 }
