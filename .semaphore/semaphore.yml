@@ -13,3 +13,6 @@ blocks:
             - checkout
             - pwd
             - ls -Flas
+            - cd build
+            - cmake ..
+            - ./helloWorldInC
