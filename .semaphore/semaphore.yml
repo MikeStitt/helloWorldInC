@@ -15,4 +15,5 @@ blocks:
             - ls -Flas
             - cd build
             - cmake ..
+            - make
             - ./helloWorldInC
