@@ -1,0 +1,40 @@
+##  Build Artifacts
+*.o
+*.so
+*.a
+*.pyc
+embedUut.c
+*.pdf
+/build*/
+/out/
+/__pycache__/
+
+# Apple stuff
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Thumbnails
+._*
+
+# Temporary Files
+*.tmp
+
+# Word, Excel Temporary
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+
+# Excel Backup File
+*.xlk
+
+# vim
+*~
+*.swp
+*.swo
+
+# IDE Stuff #
+.project
+.pydevproject
